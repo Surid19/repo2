@@ -1,0 +1,27 @@
+.monkey{
+    font: bolder;
+    font-family: fantasy;
+    font-display:  rgb(63, 225, 63);
+    
+}
+.ziraf{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: dark;
+    background-color: aquamarine;
+}
+.goat{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-display: rgb(0, 115, 255);
+    
+}
+.blog{  background-color: red;
+    margin: 90px 90px 70px 70px;
+    margin display: inline;
+    padding: 100px 100px 80px 80px;
+    padding color: red;
+
+    
+
+}
