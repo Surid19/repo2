@@ -17,6 +17,8 @@
     
 }
 .blog{  background-color: red;
+    height: fit-content;
+    width: fit-content;   
     margin: 90px 90px 70px 70px;
     margin display: inline;
     padding: 100px 100px 80px 80px;
